@@ -1,0 +1,24 @@
+{
+  "locale": "mr",
+  "lunar_date": true,
+  "date_below_clock": true,
+  "background_color": "#06040A",
+  "accent_color": "#FF7A14",
+  "wallpaper": true,
+  "wallpaper_rotation_minutes": 30,
+  "wallpaper_order": "sequential",
+  "wallpaper_captions": false,
+  "clock_format": "24",
+  "wallpaper_moods": {
+    "morning": ["01-pahat.jpg"],
+    "evening": ["02-sandhyakal.jpg"],
+    "night": ["03-ratra.jpg", "04-diwali.jpg"]
+  },
+  "festival": "diwali",
+  "festival_until": "2026-11-12",
+  "dock_glass": true,
+  "dock_opacity": 60,
+  "ambient_glow": false,
+  "clock_wallpaper": true,
+  "clock_wallpaper_dim": 30
+}
